@@ -13,5 +13,5 @@ func app() {
 }
 
 func test() {
-	fmt.Println("=-=-=-=-=-=-=-=-=-=ffffffffffffffffffffffffffffffff")
+	fmt.Println("t11111111111111111111111111111111")
 }
