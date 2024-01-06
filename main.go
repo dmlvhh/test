@@ -4,6 +4,8 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello")
+	app()
+	test()
 }
 
 func app() {
@@ -11,5 +13,5 @@ func app() {
 }
 
 func test() {
-	fmt.Println("test")
+	fmt.Println("test12312312312")
 }
